@@ -41,11 +41,11 @@ node server.js
 
 ## Usage
 
-watch the [video demonstration]()
+watch the [video demonstration](https://drive.google.com/file/d/11M9Z470aKHk1Gax-5uwDW_jQ7kntLMvI/view)
 
 ## Screenshot
 
-![Challenge 12](./images/screenshot.png?raw=true "Challenge 12")
+![Challenge 12](./Screenshot%202023-05-06%20114913.png?raw=true "Challenge 12")
 
 
 ## Contribution
